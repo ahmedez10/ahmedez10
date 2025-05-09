@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning C++, Python, and   
 - 🤝 I’m looking to collaborate on open source and real-world projects  
 - 💬 Ask me about anything tech-related  
-- 📫 How to reach me: **ahmedez1010@gmail.com**
+- 📫 How to reach me: **ahmed.ezzat4578@gmail.com**
 
 ---
 
