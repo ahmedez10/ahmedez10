@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://www.kaggle.com/ahmadezzat70" target="_blank">
+  <a href="https://www.kaggle.com/Ahmed Ezzat70" target="_blank">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 
