@@ -10,7 +10,14 @@
   </a>
   <a href="https://www.facebook.com/share/oQwfjpfxP41AR5tL" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    
   </a>
+  ## Intro to Programming Course – Kaggle
+
+[![Kaggle Logo](path/to/kaggle-logo.svg)](https://www.kaggle.com/learn/intro-to-programming)
+
+This repository contains my solutions for the Kaggle “Intro to Programming” course.
+
 </p>
 
 ---
