@@ -12,10 +12,6 @@
   <a href="https://www.kaggle.com/ahmedezzat70" target="_blank">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-<a href="https://www.credly.com/users/ahmed-ezzat.f50a241e" target="_blank" style="text-decoration:none; display:flex; align-items:center; gap:8px;">
-  <img src="https://images.credly.com/size/110x110/images/82757c50-8a2f-11e8-86b6-3d58d6f6d29b/Credly_Logo.png" alt="Credly Logo" width="30" height="30" style="vertical-align:middle;">
-  <span style="font-size:16px; font-weight:bold; color:#1A1A1A;">Ahmed Ezzat on Credly</span>
-</a>
 
 
   <a href="https://www.facebook.com/share/oQwfjpfxP41AR5tL" target="_blank">
