@@ -82,11 +82,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedez10&theme=tokyonight" alt="streak stats" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedez10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedez10/ahmedez10/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph">
-</p>
