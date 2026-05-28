@@ -1,88 +1,80 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ezzat</h1>
-<h3 align="center">A passionate Computer Science student and aspiring AI Engineer from Egypt 🇪🇬</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="center">
-  🌱 Currently learning <b>Machine Learning</b><br>
-  💬 Ask me about <b>Python, C++, Java, AI, and Problem Solving</b><br>
-  ⚡ Fun fact: I love turning ideas into real projects
-</p>
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
-<h3 align="left">🌐 Connect with me:</h3>
+###
 
-<p align="left">
-<a href="https://github.com/ahmedez10" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" />
-</a>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedez10.ahmedez10&"  />
+</div>
 
-<a href="https://kaggle.com/ahmedezzat70" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedezzat70" height="40" width="40" />
-</a>
+###
 
-<a href="https://instagram.com/ahmed__ez1.0" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed__ez1.0" height="40" width="40" />
-</a>
+<h1 align="center">hey there</h1>
 
-<a href="https://codeforces.com/profile/ahmedezzat1.0" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedezzat1.0" height="40" width="40" />
-</a>
-</p>
+###
 
----
+<h3 align="left">👩‍💻  About Me</h3>
 
-<h3 align="left">🚀 Languages and Tools:</h3>
+###
 
-<p align="left">
+<p align="left">I'm Ahmed Ezzat from egypt<br><br>- 🔭 I’m working on Machine Learning Projects<br>- 📚 I'm currently learning Machine Learning, Deep Learning, and Data Science<br>- ⚡In my free time I practice competitive programming, build projects, and explore new technologies</p>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=python" alt="python" width="45" height="45"/>
-</a>
+###
 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="45" height="45"/>
-</a>
+<h3 align="left">🛠 Language and tools</h3>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=java" alt="java" width="45" height="45"/>
-</a>
+###
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=pandas" alt="pandas" width="45" height="45"/>
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="45" height="45"/>
-</a>
+###
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=sklearn" alt="scikit_learn" width="45" height="45"/>
-</a>
+<h3 align="left">🔥   My Stats :</h3>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="45" height="45"/>
-</a>
+###
 
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=github" alt="github" width="45" height="45"/>
-</a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmedez10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-</p>
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedez10/ahmedez10/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedez10/ahmedez10/pacman-output/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmedez10/ahmedez10/pacman-output/breakout-contribution-graph.svg">
+</picture>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
 
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedez10&theme=tokyonight" alt="streak stats" />
-</p>
-
-
----
-<h3 align="center">👾 Contribution Graph</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedez10/ahmedez10/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph">
-</p>
-
+###
