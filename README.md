@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ezzat</h1>
-<h3 align="center">A passionate Computer Science student and aspiring AI & Backend Developer from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate Computer Science student and aspiring AI  from Egypt 🇪🇬</h3>
 
 <p align="center">
-  🌱 Currently learning <b>Machine Learning, Backend Development, and Data Structures</b><br>
+  🌱 Currently learning <b>Machine Learning</b><br>
   💬 Ask me about <b>Python, C++, Java, AI, and Problem Solving</b><br>
   ⚡ Fun fact: I love turning ideas into real projects
 </p>
@@ -87,8 +87,3 @@
 
 ---
 
-<h3 align="left">🏆 GitHub Trophy:</h3>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedez10&theme=onedark" alt="trophies" />
-</p>
