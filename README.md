@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ezzat</h1>
-<h3 align="center">A passionate Computer Science student and aspiring AI  from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate Computer Science student and aspiring AI Engineer from Egypt 🇪🇬</h3>
 
 <p align="center">
   🌱 Currently learning <b>Machine Learning</b><br>
@@ -72,6 +72,7 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ahmedez10&show_icons=true&theme=tokyonight" alt="stats" />
