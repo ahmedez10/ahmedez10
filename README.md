@@ -87,4 +87,6 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedez10/ahmedez10/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph">
+</p>
