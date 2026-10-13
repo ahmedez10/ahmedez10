@@ -36,8 +36,16 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">I'm Ahmed Ezzat from egypt<br><br>- 🔭 I’m working on Machine Learning Projects<br>- 📚 I'm currently learning Machine Learning, Deep Learning, and Data Science<br>- ⚡In my free time I practice competitive programming, build projects, and explore new technologies</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,vite" /> <br />
+  <img src="https://skillicons.dev/icons?i=nextjs,mongodb,postgres,prisma,cs,dotnet,azure,vercel,git,postman" />
+</p>
+<!---
+Ahmed Ezzat | AI & Machine Learning
+This README appears on my GitHub profile.
+Always learning, building, and exploring AI.
+--->
+<br>
 
 ###
 
