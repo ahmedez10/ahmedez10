@@ -33,10 +33,7 @@
 
 
 ###
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,vite" /> <br />
-  <img src="https://skillicons.dev/icons?i=nextjs,mongodb,postgres,prisma,cs,dotnet,azure,vercel,git,postman" />
-</p>
+
 <!---
 Ahmed Ezzat | AI & Machine Learning
 This README appears on my GitHub profile.
