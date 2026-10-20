@@ -3,7 +3,6 @@
 </div>
 
 <br>
- 
 
 
 <h1 align="center">Hey there, I'm Ahmed Ezzat 👋</h1>
