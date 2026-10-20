@@ -47,49 +47,16 @@
 
 ## 🛠️ Languages & Tools
 
-### 💻 Programming & Development
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,docker" alt="Programming and development tools" />
-</div>
-
-### 📊 Data Science & Machine Learning
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=numpy,sklearn" alt="Data science and machine learning" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-</div>
-
-### 🧠 Deep Learning
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Deep learning frameworks" />
-</div>
-
-- Neural Networks
-- Forward & Backpropagation
-- Activation Functions and Loss Functions
-- Optimization Algorithms
-- Training, Validation, and Overfitting
-
-### 💬 Natural Language Processing (NLP)
-
-- Text Preprocessing and Tokenization
-- Stemming and Lemmatization
-- Text Representation and Embeddings
-- Attention Mechanism and Transformers
-- Preparing to explore Large Language Models (LLMs)
-
-### ☁️ Cloud & AI Tools
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux" alt="Cloud and development tools" />
 </div>
 
-- Microsoft Azure
-- Cloud Computing Fundamentals
-- Jupyter Notebook and Google Colab
-- Git and GitHub
 
 
 ## 🚀 Projects
