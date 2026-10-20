@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./coding-banner.gif" width="100%" alt="Coding and AI Banner" />
+  <img src="[./coding-banner.gif](https://github.com/ahsansajid25324)" width="100%" alt="Coding and AI Banner" />
 </div>
 
 <br>
