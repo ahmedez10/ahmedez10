@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="[./coding-banner.gif](https://github.com/ahsansajid25324)" width="100%" alt="Coding and AI Banner" />
+  <img src="https://media.tenor.com/" width="250" alt="Coding GIF" />
 </div>
-
-<br>
 
 
 <h1 align="center">Hey there, I'm Ahmed Ezzat 👋</h1>
