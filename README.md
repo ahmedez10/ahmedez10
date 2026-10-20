@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://media1.tenor.com/m/WuvwZsl9EnMAAAAC/user7122.gif" width="250" alt="Coding GIF" />
 </div>
 <h1 align="center">Hey there, I'm Ahmed Ezzat 👋</h1>
