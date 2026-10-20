@@ -1,7 +1,6 @@
  <div align="center">
   <img src="<div align="center">
-  <img src="https://media1.tenor.com/m/WuvwZsl9EnMAAAAC/user7122.gif" width="250" alt="Coding GIF" />
-</div> width="250" alt="Coding GIF" />
+  <img src="https://media1.tenor.com/m/WuvwZsl9EnMAAAAC/user7122.gif" width="250" alt="Coding GIF" /></div> width="250" alt="Coding GIF" />
 </div>
 
 <h1 align="center">Hey there, I'm Ahmed Ezzat 👋</h1>
