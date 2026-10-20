@@ -1,7 +1,6 @@
-<div align="center">
+ <div align="center">
   <img src="https://media.tenor.com/" width="250" alt="Coding GIF" />
 </div>
-
 
 <h1 align="center">Hey there, I'm Ahmed Ezzat 👋</h1>
 
