@@ -31,29 +31,66 @@
 
 ## 👨‍💻 About Me
 
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 🐍 Working with Python for data analysis and machine learning.
-- 📊 Exploring data preprocessing, visualization, and predictive modeling.
-- 🧠 Improving my problem-solving and algorithmic thinking skills.
-- 🚀 Always learning, experimenting, and building new projects.
+- 🧠 Learning Deep Learning and Neural Networks.
+- 🤖 Preparing to dive into Generative AI and Large Language Models (LLMs).
+- 🐍 Using Python for AI and Machine Learning projects.
+- 📊 Exploring data analysis, preprocessing, and model evaluation.
+- 🚀 Learning by building projects and solving real-world problems.
 
 ## 🎯 Current Focus
 
 - Machine Learning algorithms and model evaluation
-- Data Analysis using NumPy and Pandas
-- Deep Learning and Neural Networks
-- Natural Language Processing (NLP)
-- Generative AI and AI-powered applications
+- 📚 Deep Learning & Neural Networks — Currently Learning
+- 🔜 Generative AI & Large Language Models
+- 🔜 Natural Language Processing (NLP)
+- 🔜 Building AI-powered applications
 
 ## 🛠️ Languages & Tools
 
+### 💻 Programming & Development
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,docker,anaconda" alt="Programming languages and development tools" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="NumPy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,docker" alt="Programming and development tools" />
 </div>
+
+### 📊 Data Science & Machine Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,sklearn" alt="Data science and machine learning" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+</div>
+
+### 🧠 Deep Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Deep learning frameworks" />
+</div>
+
+- Neural Networks
+- Forward & Backpropagation
+- Activation Functions and Loss Functions
+- Optimization Algorithms
+- Training, Validation, and Overfitting
+
+### 💬 Natural Language Processing (NLP)
+
+- Text Preprocessing and Tokenization
+- Stemming and Lemmatization
+- Text Representation and Embeddings
+- Attention Mechanism and Transformers
+- Preparing to explore Large Language Models (LLMs)
+
+### ☁️ Cloud & AI Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux" alt="Cloud and development tools" />
+</div>
+
+- Microsoft Azure
+- Cloud Computing Fundamentals
+- Jupyter Notebook and Google Colab
+- Git and GitHub
+
 
 ## 🚀 Projects
 
